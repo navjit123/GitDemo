@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="61" started-at="2020-01-17T03:05:27 EST" finished-at="2020-01-17T03:05:27 EST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="61" started-at="2020-01-17T03:05:27 EST" finished-at="2020-01-17T03:05:27 EST">
+      <class name="qaclickacademy.RESTAPITest">
+        <test-method status="PASS" signature="PostJira()[pri:0, instance:qaclickacademy.RESTAPITest@2038ae61]" name="PostJira" duration-ms="1" started-at="2020-01-17T03:05:27 EST" finished-at="2020-01-17T03:05:27 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostJira -->
+        <test-method status="PASS" signature="TwitterDelete()[pri:0, instance:qaclickacademy.RESTAPITest@2038ae61]" name="TwitterDelete" duration-ms="0" started-at="2020-01-17T03:05:27 EST" finished-at="2020-01-17T03:05:27 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TwitterDelete -->
+      </class> <!-- qaclickacademy.RESTAPITest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="elementsUi()[pri:0, instance:qaclickacademy.SeleniumTest@60c6f5b]" name="elementsUi" duration-ms="6" started-at="2020-01-17T03:05:27 EST" finished-at="2020-01-17T03:05:27 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUi -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

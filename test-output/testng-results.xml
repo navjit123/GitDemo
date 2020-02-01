@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="97" started-at="2020-01-21T17:27:18 EST" finished-at="2020-01-21T17:27:18 EST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="97" started-at="2020-01-21T17:27:18 EST" finished-at="2020-01-21T17:27:18 EST">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="IOSapps()[pri:0, instance:qaclickacademy.AppiumTest@1efed156]" name="IOSapps" duration-ms="16" started-at="2020-01-21T17:27:18 EST" finished-at="2020-01-21T17:27:18 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSapps -->
+        <test-method status="PASS" signature="NativeAppAndroid()[pri:0, instance:qaclickacademy.AppiumTest@1efed156]" name="NativeAppAndroid" duration-ms="3" started-at="2020-01-21T17:27:18 EST" finished-at="2020-01-21T17:27:18 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.RESTAPITest">
+        <test-method status="PASS" signature="PostJira()[pri:0, instance:qaclickacademy.RESTAPITest@72b6cbcc]" name="PostJira" duration-ms="3" started-at="2020-01-21T17:27:18 EST" finished-at="2020-01-21T17:27:18 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostJira -->
+        <test-method status="PASS" signature="TwitterDelete()[pri:0, instance:qaclickacademy.RESTAPITest@72b6cbcc]" name="TwitterDelete" duration-ms="4" started-at="2020-01-21T17:27:18 EST" finished-at="2020-01-21T17:27:18 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TwitterDelete -->
+      </class> <!-- qaclickacademy.RESTAPITest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="elementsUi()[pri:0, instance:qaclickacademy.SeleniumTest@6737fd8f]" name="elementsUi" duration-ms="3" started-at="2020-01-21T17:27:18 EST" finished-at="2020-01-21T17:27:18 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUi -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
